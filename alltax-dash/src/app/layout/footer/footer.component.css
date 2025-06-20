@@ -1,0 +1,14 @@
+:host {
+    height: 4rem;
+    background-color: var(--mdc-theme-primary);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7rem;
+    font-size: .8rem;
+    font-weight: 600;
+}
+
+img {
+    height: 2rem;
+}

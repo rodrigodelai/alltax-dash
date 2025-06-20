@@ -1,0 +1,14 @@
+app-header {
+    position: fixed;
+    height: 4rem;
+    width: 100%;
+}
+
+app-header, app-footer {
+    color: var(--light-font);
+}
+
+main {
+    padding-top: 4rem;
+    min-height: calc(100% - 8rem);
+}

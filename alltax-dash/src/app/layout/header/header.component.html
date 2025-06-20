@@ -1,1 +1,19 @@
-<p>header works!</p>
+<mat-toolbar color="primary" class="toolbar">
+    <div class="menu">
+        <button class="menu-button" mat-icon-button aria-label="Menu icon">
+            <mat-icon>menu</mat-icon>
+        </button>
+        <span>Menu</span>
+    </div>
+
+    <div class="title">
+        <h1>{{ title }}</h1>
+    </div>
+
+    <div class="user-profile">
+        <button class="user-button" aria-label="User profile">
+            <img class="user-avatar" [src]="user.avatarUrl" [alt]="user.name + ' avatar'" />
+        </button>
+        <span class="user-name">{{ user.name }}</span>
+    </div>
+</mat-toolbar>

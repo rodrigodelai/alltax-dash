@@ -1,1 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
+:root {
+    --mdc-theme-primary: #6695e1;
+    --mdc-theme-on-primary: #fefefe;
+    --light-font: #fefefe;
+}
+
+.mat-primary {
+    background-color: var(--mdc-theme-primary) !important;
+    color: var(--mdc-theme-on-primary) !important;
+}
+
+html,
+body {
+    margin: 0;
+    height: 100%;
+    font-family: Roboto, 'Helvetica Neue', sans-serif;
+}
