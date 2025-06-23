@@ -17,7 +17,7 @@ import { Brand } from '../../models/sales-data.interface';
     styleUrl: './sales-dashboard.component.css'
 })
 export class SalesDashboardComponent {
-    currentBrand?: Brand = undefined;
+    currentBrand?: Brand;
 
     constructor() { }
 

@@ -1,0 +1,17 @@
+mat-card {
+  margin: 0 1rem;
+  padding: .5rem;
+  gap: 1rem;
+  border-radius: .25rem;
+  border: 1px solid #74777f;
+}
+
+.chart-container {
+  height: 30rem; 
+}
+
+button {
+    width: 13rem;
+    height: 1.5rem;
+    cursor: pointer;
+}
