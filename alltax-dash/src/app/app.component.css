@@ -5,7 +5,7 @@ app-header {
 }
 
 app-header, app-footer {
-    color: var(--light-font);
+    color: var(--mdc-theme-on-primary);
 }
 
 main {

@@ -1,12 +1,6 @@
 :root {
     --mdc-theme-primary: #6695e1;
     --mdc-theme-on-primary: #fefefe;
-    --light-font: #fefefe;
-}
-
-.mat-primary {
-    background-color: var(--mdc-theme-primary) !important;
-    color: var(--mdc-theme-on-primary) !important;
 }
 
 html,

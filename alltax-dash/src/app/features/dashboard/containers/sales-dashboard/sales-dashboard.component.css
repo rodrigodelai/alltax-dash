@@ -1,4 +1,4 @@
-p {
-    margin-top: 0;
-    height: 400px;
+:host {
+    display: block;
+    padding: 1rem;
 }

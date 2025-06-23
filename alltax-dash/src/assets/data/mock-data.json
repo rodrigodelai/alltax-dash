@@ -1,0 +1,1527 @@
+[
+  {
+    "categoryName": "Eletrônicos",
+    "products": [
+      {
+        "productName": "Smartphones",
+        "brands": [
+          {
+            "brandName": "Samsung",
+            "sales": [
+              { "month": "Janeiro", "value": 90 },
+              { "month": "Fevereiro", "value": 500 },
+              { "month": "Março", "value": 350 },
+              { "month": "Abril", "value": 110 },
+              { "month": "Maio", "value": 190 },
+              { "month": "Junho", "value": 310 }
+            ]
+          },
+          {
+            "brandName": "Apple",
+            "sales": [
+              { "month": "Janeiro", "value": 75 },
+              { "month": "Fevereiro", "value": 580 },
+              { "month": "Março", "value": 320 },
+              { "month": "Abril", "value": 95 },
+              { "month": "Maio", "value": 210 },
+              { "month": "Junho", "value": 280 }
+            ]
+          },
+          {
+            "brandName": "Xiaomi",
+            "sales": [
+              { "month": "Janeiro", "value": 60 },
+              { "month": "Fevereiro", "value": 530 },
+              { "month": "Março", "value": 370 },
+              { "month": "Abril", "value": 105 },
+              { "month": "Maio", "value": 165 },
+              { "month": "Junho", "value": 305 }
+            ]
+          },
+          {
+            "brandName": "Motorola",
+            "sales": [
+              { "month": "Janeiro", "value": 85 },
+              { "month": "Fevereiro", "value": 550 },
+              { "month": "Março", "value": 310 },
+              { "month": "Abril", "value": 130 },
+              { "month": "Maio", "value": 200 },
+              { "month": "Junho", "value": 270 }
+            ]
+          },
+          {
+            "brandName": "Google Pixel",
+            "sales": [
+              { "month": "Janeiro", "value": 70 },
+              { "month": "Fevereiro", "value": 520 },
+              { "month": "Março", "value": 340 },
+              { "month": "Abril", "value": 100 },
+              { "month": "Maio", "value": 180 },
+              { "month": "Junho", "value": 260 }
+            ]
+          }
+        ]
+      },
+      {
+        "productName": "Notebooks",
+        "brands": [
+          {
+            "brandName": "Dell",
+            "sales": [
+              { "month": "Janeiro", "value": 95 },
+              { "month": "Fevereiro", "value": 590 },
+              { "month": "Março", "value": 315 },
+              { "month": "Abril", "value": 120 },
+              { "month": "Maio", "value": 220 },
+              { "month": "Junho", "value": 320 }
+            ]
+          },
+          {
+            "brandName": "HP",
+            "sales": [
+              { "month": "Janeiro", "value": 80 },
+              { "month": "Fevereiro", "value": 525 },
+              { "month": "Março", "value": 360 },
+              { "month": "Abril", "value": 90 },
+              { "month": "Maio", "value": 175 },
+              { "month": "Junho", "value": 295 }
+            ]
+          },
+          {
+            "brandName": "Acer",
+            "sales": [
+              { "month": "Janeiro", "value": 65 },
+              { "month": "Fevereiro", "value": 560 },
+              { "month": "Março", "value": 305 },
+              { "month": "Abril", "value": 115 },
+              { "month": "Maio", "value": 205 },
+              { "month": "Junho", "value": 275 }
+            ]
+          },
+          {
+            "brandName": "Lenovo",
+            "sales": [
+              { "month": "Janeiro", "value": 70 },
+              { "month": "Fevereiro", "value": 505 },
+              { "month": "Março", "value": 330 },
+              { "month": "Abril", "value": 85 },
+              { "month": "Maio", "value": 190 },
+              { "month": "Junho", "value": 310 }
+            ]
+          },
+          {
+            "brandName": "Asus",
+            "sales": [
+              { "month": "Janeiro", "value": 55 },
+              { "month": "Fevereiro", "value": 540 },
+              { "month": "Março", "value": 350 },
+              { "month": "Abril", "value": 100 },
+              { "month": "Maio", "value": 180 },
+              { "month": "Junho", "value": 260 }
+            ]
+          }
+        ]
+      },
+      {
+        "productName": "Smart TVs",
+        "brands": [
+          {
+            "brandName": "LG",
+            "sales": [
+              { "month": "Janeiro", "value": 78 },
+              { "month": "Fevereiro", "value": 510 },
+              { "month": "Março", "value": 325 },
+              { "month": "Abril", "value": 98 },
+              { "month": "Maio", "value": 170 },
+              { "month": "Junho", "value": 285 }
+            ]
+          },
+          {
+            "brandName": "Samsung",
+            "sales": [
+              { "month": "Janeiro", "value": 93 },
+              { "month": "Fevereiro", "value": 570 },
+              { "month": "Março", "value": 380 },
+              { "month": "Abril", "value": 113 },
+              { "month": "Maio", "value": 215 },
+              { "month": "Junho", "value": 300 }
+            ]
+          },
+          {
+            "brandName": "Sony",
+            "sales": [
+              { "month": "Janeiro", "value": 62 },
+              { "month": "Fevereiro", "value": 545 },
+              { "month": "Março", "value": 300 },
+              { "month": "Abril", "value": 83 },
+              { "month": "Maio", "value": 195 },
+              { "month": "Junho", "value": 265 }
+            ]
+          },
+          {
+            "brandName": "TCL",
+            "sales": [
+              { "month": "Janeiro", "value": 88 },
+              { "month": "Fevereiro", "value": 500 },
+              { "month": "Março", "value": 360 },
+              { "month": "Abril", "value": 108 },
+              { "month": "Maio", "value": 185 },
+              { "month": "Junho", "value": 315 }
+            ]
+          },
+          {
+            "brandName": "Panasonic",
+            "sales": [
+              { "month": "Janeiro", "value": 75 },
+              { "month": "Fevereiro", "value": 560 },
+              { "month": "Março", "value": 335 },
+              { "month": "Abril", "value": 90 },
+              { "month": "Maio", "value": 205 },
+              { "month": "Junho", "value": 290 }
+            ]
+          }
+        ]
+      },
+      {
+        "productName": "Fones de Ouvido",
+        "brands": [
+          {
+            "brandName": "JBL",
+            "sales": [
+              { "month": "Janeiro", "value": 65 },
+              { "month": "Fevereiro", "value": 530 },
+              { "month": "Março", "value": 320 },
+              { "month": "Abril", "value": 90 },
+              { "month": "Maio", "value": 180 },
+              { "month": "Junho", "value": 290 }
+            ]
+          },
+          {
+            "brandName": "Sony",
+            "sales": [
+              { "month": "Janeiro", "value": 80 },
+              { "month": "Fevereiro", "value": 560 },
+              { "month": "Março", "value": 350 },
+              { "month": "Abril", "value": 110 },
+              { "month": "Maio", "value": 200 },
+              { "month": "Junho", "value": 310 }
+            ]
+          },
+          {
+            "brandName": "Bose",
+            "sales": [
+              { "month": "Janeiro", "value": 55 },
+              { "month": "Fevereiro", "value": 510 },
+              { "month": "Março", "value": 300 },
+              { "month": "Abril", "value": 80 },
+              { "month": "Maio", "value": 160 },
+              { "month": "Junho", "value": 270 }
+            ]
+          },
+          {
+            "brandName": "Audio-Technica",
+            "sales": [
+              { "month": "Janeiro", "value": 95 },
+              { "month": "Fevereiro", "value": 590 },
+              { "month": "Março", "value": 390 },
+              { "month": "Abril", "value": 120 },
+              { "month": "Maio", "value": 230 },
+              { "month": "Junho", "value": 340 }
+            ]
+          },
+          {
+            "brandName": "Sennheiser",
+            "sales": [
+              { "month": "Janeiro", "value": 70 },
+              { "month": "Fevereiro", "value": 540 },
+              { "month": "Março", "value": 330 },
+              { "month": "Abril", "value": 100 },
+              { "month": "Maio", "value": 190 },
+              { "month": "Junho", "value": 300 }
+            ]
+          }
+        ]
+      },
+      {
+        "productName": "Consoles",
+        "brands": [
+          {
+            "brandName": "PlayStation",
+            "sales": [
+              { "month": "Janeiro", "value": 90 },
+              { "month": "Fevereiro", "value": 580 },
+              { "month": "Março", "value": 380 },
+              { "month": "Abril", "value": 120 },
+              { "month": "Maio", "value": 220 },
+              { "month": "Junho", "value": 330 }
+            ]
+          },
+          {
+            "brandName": "Xbox",
+            "sales": [
+              { "month": "Janeiro", "value": 75 },
+              { "month": "Fevereiro", "value": 550 },
+              { "month": "Março", "value": 350 },
+              { "month": "Abril", "value": 100 },
+              { "month": "Maio", "value": 190 },
+              { "month": "Junho", "value": 300 }
+            ]
+          },
+          {
+            "brandName": "Nintendo",
+            "sales": [
+              { "month": "Janeiro", "value": 60 },
+              { "month": "Fevereiro", "value": 520 },
+              { "month": "Março", "value": 320 },
+              { "month": "Abril", "value": 90 },
+              { "month": "Maio", "value": 170 },
+              { "month": "Junho", "value": 280 }
+            ]
+          },
+          {
+            "brandName": "Valve",
+            "sales": [
+              { "month": "Janeiro", "value": 85 },
+              { "month": "Fevereiro", "value": 570 },
+              { "month": "Março", "value": 370 },
+              { "month": "Abril", "value": 110 },
+              { "month": "Maio", "value": 210 },
+              { "month": "Junho", "value": 320 }
+            ]
+          },
+          {
+            "brandName": "Evercade",
+            "sales": [
+              { "month": "Janeiro", "value": 70 },
+              { "month": "Fevereiro", "value": 530 },
+              { "month": "Março", "value": 330 },
+              { "month": "Abril", "value": 95 },
+              { "month": "Maio", "value": 180 },
+              { "month": "Junho", "value": 290 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryName": "Alimentos",
+    "products": [
+      {
+        "productName": "Laticínios",
+        "brands": [
+          {
+            "brandName": "Danone",
+            "sales": [
+              { "month": "Janeiro", "value": 90 },
+              { "month": "Fevereiro", "value": 550 },
+              { "month": "Março", "value": 340 },
+              { "month": "Abril", "value": 110 },
+              { "month": "Maio", "value": 200 },
+              { "month": "Junho", "value": 310 }
+            ]
+          },
+          {
+            "brandName": "Nestlé",
+            "sales": [
+              { "month": "Janeiro", "value": 75 },
+              { "month": "Fevereiro", "value": 520 },
+              { "month": "Março", "value": 370 },
+              { "month": "Abril", "value": 95 },
+              { "month": "Maio", "value": 180 },
+              { "month": "Junho", "value": 290 }
+            ]
+          },
+          {
+            "brandName": "Vigor",
+            "sales": [
+              { "month": "Janeiro", "value": 60 },
+              { "month": "Fevereiro", "value": 580 },
+              { "month": "Março", "value": 310 },
+              { "month": "Abril", "value": 120 },
+              { "month": "Maio", "value": 210 },
+              { "month": "Junho", "value": 320 }
+            ]
+          },
+          {
+            "brandName": "Piracanjuba",
+            "sales": [
+              { "month": "Janeiro", "value": 85 },
+              { "month": "Fevereiro", "value": 500 },
+              { "month": "Março", "value": 350 },
+              { "month": "Abril", "value": 100 },
+              { "month": "Maio", "value": 190 },
+              { "month": "Junho", "value": 300 }
+            ]
+          },
+          {
+            "brandName": "Itambé",
+            "sales": [
+              { "month": "Janeiro", "value": 70 },
+              { "month": "Fevereiro", "value": 530 },
+              { "month": "Março", "value": 320 },
+              { "month": "Abril", "value": 80 },
+              { "month": "Maio", "value": 170 },
+              { "month": "Junho", "value": 280 }
+            ]
+          }
+        ]
+      },
+      {
+        "productName": "Grãos e Cereais",
+        "brands": [
+          {
+            "brandName": "Quaker",
+            "sales": [
+              { "month": "Janeiro", "value": 55 },
+              { "month": "Fevereiro", "value": 510 },
+              { "month": "Março", "value": 300 },
+              { "month": "Abril", "value": 85 },
+              { "month": "Maio", "value": 160 },
+              { "month": "Junho", "value": 270 }
+            ]
+          },
+          {
+            "brandName": "Kellogg's",
+            "sales": [
+              { "month": "Janeiro", "value": 80 },
+              { "month": "Fevereiro", "value": 540 },
+              { "month": "Março", "value": 330 },
+              { "month": "Abril", "value": 105 },
+              { "month": "Maio", "value": 190 },
+              { "month": "Junho", "value": 300 }
+            ]
+          },
+          {
+            "brandName": "Nestlé Cereais",
+            "sales": [
+              { "month": "Janeiro", "value": 95 },
+              { "month": "Fevereiro", "value": 590 },
+              { "month": "Março", "value": 380 },
+              { "month": "Abril", "value": 120 },
+              { "month": "Maio", "value": 220 },
+              { "month": "Junho", "value": 330 }
+            ]
+          },
+          {
+            "brandName": "Mãe Terra",
+            "sales": [
+              { "month": "Janeiro", "value": 70 },
+              { "month": "Fevereiro", "value": 500 },
+              { "month": "Março", "value": 310 },
+              { "month": "Abril", "value": 90 },
+              { "month": "Maio", "value": 170 },
+              { "month": "Junho", "value": 280 }
+            ]
+          },
+          {
+            "brandName": "Vitao",
+            "sales": [
+              { "month": "Janeiro", "value": 60 },
+              { "month": "Fevereiro", "value": 530 },
+              { "month": "Março", "value": 340 },
+              { "month": "Abril", "value": 98 },
+              { "month": "Maio", "value": 185 },
+              { "month": "Junho", "value": 295 }
+            ]
+          }
+        ]
+      },
+      {
+        "productName": "Bebidas",
+        "brands": [
+          {
+            "brandName": "Coca-Cola",
+            "sales": [
+              { "month": "Janeiro", "value": 95 },
+              { "month": "Fevereiro", "value": 580 },
+              { "month": "Março", "value": 390 },
+              { "month": "Abril", "value": 120 },
+              { "month": "Maio", "value": 230 },
+              { "month": "Junho", "value": 340 }
+            ]
+          },
+          {
+            "brandName": "Ambev",
+            "sales": [
+              { "month": "Janeiro", "value": 80 },
+              { "month": "Fevereiro", "value": 550 },
+              { "month": "Março", "value": 360 },
+              { "month": "Abril", "value": 100 },
+              { "month": "Maio", "value": 200 },
+              { "month": "Junho", "value": 310 }
+            ]
+          },
+          {
+            "brandName": "PepsiCo",
+            "sales": [
+              { "month": "Janeiro", "value": 65 },
+              { "month": "Fevereiro", "value": 520 },
+              { "month": "Março", "value": 330 },
+              { "month": "Abril", "value": 90 },
+              { "month": "Maio", "value": 170 },
+              { "month": "Junho", "value": 280 }
+            ]
+          },
+          {
+            "brandName": "Unilever",
+            "sales": [
+              { "month": "Janeiro", "value": 90 },
+              { "month": "Fevereiro", "value": 500 },
+              { "month": "Março", "value": 300 },
+              { "month": "Abril", "value": 80 },
+              { "month": "Maio", "value": 150 },
+              { "month": "Junho", "value": 250 }
+            ]
+          },
+          {
+            "brandName": "Danone Águas",
+            "sales": [
+              { "month": "Janeiro", "value": 70 },
+              { "month": "Fevereiro", "value": 540 },
+              { "month": "Março", "value": 350 },
+              { "month": "Abril", "value": 105 },
+              { "month": "Maio", "value": 210 },
+              { "month": "Junho", "value": 320 }
+            ]
+          }
+        ]
+      },
+      {
+        "productName": "Padaria e Bolos",
+        "brands": [
+          {
+            "brandName": "Bauducco",
+            "sales": [
+              { "month": "Janeiro", "value": 85 },
+              { "month": "Fevereiro", "value": 570 },
+              { "month": "Março", "value": 380 },
+              { "month": "Abril", "value": 115 },
+              { "month": "Maio", "value": 220 },
+              { "month": "Junho", "value": 330 }
+            ]
+          },
+          {
+            "brandName": "Panco",
+            "sales": [
+              { "month": "Janeiro", "value": 60 },
+              { "month": "Fevereiro", "value": 530 },
+              { "month": "Março", "value": 350 },
+              { "month": "Abril", "value": 90 },
+              { "month": "Maio", "value": 180 },
+              { "month": "Junho", "value": 290 }
+            ]
+          },
+          {
+            "brandName": "Wickbold",
+            "sales": [
+              { "month": "Janeiro", "value": 90 },
+              { "month": "Fevereiro", "value": 590 },
+              { "month": "Março", "value": 390 },
+              { "month": "Abril", "value": 125 },
+              { "month": "Maio", "value": 240 },
+              { "month": "Junho", "value": 350 }
+            ]
+          },
+          {
+            "brandName": "Pullman",
+            "sales": [
+              { "month": "Janeiro", "value": 70 },
+              { "month": "Fevereiro", "value": 500 },
+              { "month": "Março", "value": 310 },
+              { "month": "Abril", "value": 85 },
+              { "month": "Maio", "value": 160 },
+              { "month": "Junho", "value": 270 }
+            ]
+          },
+          {
+            "brandName": "Fleischmann",
+            "sales": [
+              { "month": "Janeiro", "value": 55 },
+              { "month": "Fevereiro", "value": 520 },
+              { "month": "Março", "value": 330 },
+              { "month": "Abril", "value": 95 },
+              { "month": "Maio", "value": 170 },
+              { "month": "Junho", "value": 280 }
+            ]
+          }
+        ]
+      },
+      {
+        "productName": "Congelados",
+        "brands": [
+          {
+            "brandName": "Sadia",
+            "sales": [
+              { "month": "Janeiro", "value": 90 },
+              { "month": "Fevereiro", "value": 580 },
+              { "month": "Março", "value": 380 },
+              { "month": "Abril", "value": 120 },
+              { "month": "Maio", "value": 220 },
+              { "month": "Junho", "value": 330 }
+            ]
+          },
+          {
+            "brandName": "Perdigão",
+            "sales": [
+              { "month": "Janeiro", "value": 75 },
+              { "month": "Fevereiro", "value": 550 },
+              { "month": "Março", "value": 350 },
+              { "month": "Abril", "value": 100 },
+              { "month": "Maio", "value": 190 },
+              { "month": "Junho", "value": 300 }
+            ]
+          },
+          {
+            "brandName": "Seara",
+            "sales": [
+              { "month": "Janeiro", "value": 60 },
+              { "month": "Fevereiro", "value": 520 },
+              { "month": "Março", "value": 320 },
+              { "month": "Abril", "value": 90 },
+              { "month": "Maio", "value": 170 },
+              { "month": "Junho", "value": 280 }
+            ]
+          },
+          {
+            "brandName": "BRF",
+            "sales": [
+              { "month": "Janeiro", "value": 95 },
+              { "month": "Fevereiro", "value": 590 },
+              { "month": "Março", "value": 390 },
+              { "month": "Abril", "value": 130 },
+              { "month": "Maio", "value": 240 },
+              { "month": "Junho", "value": 350 }
+            ]
+          },
+          {
+            "brandName": "Swift",
+            "sales": [
+              { "month": "Janeiro", "value": 70 },
+              { "month": "Fevereiro", "value": 540 },
+              { "month": "Março", "value": 330 },
+              { "month": "Abril", "value": 100 },
+              { "month": "Maio", "value": 190 },
+              { "month": "Junho", "value": 300 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryName": "Vestuário",
+    "products": [
+      {
+        "productName": "Camisetas",
+        "brands": [
+          {
+            "brandName": "Nike",
+            "sales": [
+              { "month": "Janeiro", "value": 80 },
+              { "month": "Fevereiro", "value": 550 },
+              { "month": "Março", "value": 360 },
+              { "month": "Abril", "value": 100 },
+              { "month": "Maio", "value": 200 },
+              { "month": "Junho", "value": 310 }
+            ]
+          },
+          {
+            "brandName": "Adidas",
+            "sales": [
+              { "month": "Janeiro", "value": 65 },
+              { "month": "Fevereiro", "value": 520 },
+              { "month": "Março", "value": 330 },
+              { "month": "Abril", "value": 90 },
+              { "month": "Maio", "value": 170 },
+              { "month": "Junho", "value": 280 }
+            ]
+          },
+          {
+            "brandName": "Puma",
+            "sales": [
+              { "month": "Janeiro", "value": 90 },
+              { "month": "Fevereiro", "value": 580 },
+              { "month": "Março", "value": 380 },
+              { "month": "Abril", "value": 120 },
+              { "month": "Maio", "value": 220 },
+              { "month": "Junho", "value": 330 }
+            ]
+          },
+          {
+            "brandName": "Lacoste",
+            "sales": [
+              { "month": "Janeiro", "value": 75 },
+              { "month": "Fevereiro", "value": 540 },
+              { "month": "Março", "value": 350 },
+              { "month": "Abril", "value": 105 },
+              { "month": "Maio", "value": 210 },
+              { "month": "Junho", "value": 320 }
+            ]
+          },
+          {
+            "brandName": "Reserva",
+            "sales": [
+              { "month": "Janeiro", "value": 60 },
+              { "month": "Fevereiro", "value": 510 },
+              { "month": "Março", "value": 310 },
+              { "month": "Abril", "value": 95 },
+              { "month": "Maio", "value": 180 },
+              { "month": "Junho", "value": 290 }
+            ]
+          }
+        ]
+      },
+      {
+        "productName": "Calças Jeans",
+        "brands": [
+          {
+            "brandName": "Levi's",
+            "sales": [
+              { "month": "Janeiro", "value": 95 },
+              { "month": "Fevereiro", "value": 590 },
+              { "month": "Março", "value": 390 },
+              { "month": "Abril", "value": 130 },
+              { "month": "Maio", "value": 240 },
+              { "month": "Junho", "value": 350 }
+            ]
+          },
+          {
+            "brandName": "Calvin Klein",
+            "sales": [
+              { "month": "Janeiro", "value": 80 },
+              { "month": "Fevereiro", "value": 550 },
+              { "month": "Março", "value": 360 },
+              { "month": "Abril", "value": 100 },
+              { "month": "Maio", "value": 200 },
+              { "month": "Junho", "value": 310 }
+            ]
+          },
+          {
+            "brandName": "Diesel",
+            "sales": [
+              { "month": "Janeiro", "value": 65 },
+              { "month": "Fevereiro", "value": 520 },
+              { "month": "Março", "value": 330 },
+              { "month": "Abril", "value": 90 },
+              { "month": "Maio", "value": 170 },
+              { "month": "Junho", "value": 280 }
+            ]
+          },
+          {
+            "brandName": "Ellus",
+            "sales": [
+              { "month": "Janeiro", "value": 90 },
+              { "month": "Fevereiro", "value": 580 },
+              { "month": "Março", "value": 380 },
+              { "month": "Abril", "value": 120 },
+              { "month": "Maio", "value": 220 },
+              { "month": "Junho", "value": 330 }
+            ]
+          },
+          {
+            "brandName": "Zara",
+            "sales": [
+              { "month": "Janeiro", "value": 75 },
+              { "month": "Fevereiro", "value": 540 },
+              { "month": "Março", "value": 350 },
+              { "month": "Abril", "value": 105 },
+              { "month": "Maio", "value": 210 },
+              { "month": "Junho", "value": 320 }
+            ]
+          }
+        ]
+      },
+      {
+        "productName": "Tênis",
+        "brands": [
+          {
+            "brandName": "Nike",
+            "sales": [
+              { "month": "Janeiro", "value": 99 },
+              { "month": "Fevereiro", "value": 595 },
+              { "month": "Março", "value": 395 },
+              { "month": "Abril", "value": 135 },
+              { "month": "Maio", "value": 245 },
+              { "month": "Junho", "value": 355 }
+            ]
+          },
+          {
+            "brandName": "Adidas",
+            "sales": [
+              { "month": "Janeiro", "value": 87 },
+              { "month": "Fevereiro", "value": 565 },
+              { "month": "Março", "value": 365 },
+              { "month": "Abril", "value": 105 },
+              { "month": "Maio", "value": 205 },
+              { "month": "Junho", "value": 315 }
+            ]
+          },
+          {
+            "brandName": "Puma",
+            "sales": [
+              { "month": "Janeiro", "value": 51 },
+              { "month": "Fevereiro", "value": 525 },
+              { "month": "Março", "value": 335 },
+              { "month": "Abril", "value": 95 },
+              { "month": "Maio", "value": 175 },
+              { "month": "Junho", "value": 285 }
+            ]
+          },
+          {
+            "brandName": "New Balance",
+            "sales": [
+              { "month": "Janeiro", "value": 73 },
+              { "month": "Fevereiro", "value": 545 },
+              { "month": "Março", "value": 345 },
+              { "month": "Abril", "value": 115 },
+              { "month": "Maio", "value": 215 },
+              { "month": "Junho", "value": 325 }
+            ]
+          },
+          {
+            "brandName": "Converse",
+            "sales": [
+              { "month": "Janeiro", "value": 29 },
+              { "month": "Fevereiro", "value": 505 },
+              { "month": "Março", "value": 305 },
+              { "month": "Abril", "value": 85 },
+              { "month": "Maio", "value": 165 },
+              { "month": "Junho", "value": 275 }
+            ]
+          }
+        ]
+      },
+      {
+        "productName": "Acessórios",
+        "brands": [
+          {
+            "brandName": "Ray-Ban",
+            "sales": [
+              { "month": "Janeiro", "value": 62 },
+              { "month": "Fevereiro", "value": 535 },
+              { "month": "Março", "value": 345 },
+              { "month": "Abril", "value": 105 },
+              { "month": "Maio", "value": 205 },
+              { "month": "Junho", "value": 315 }
+            ]
+          },
+          {
+            "brandName": "Chilli Beans",
+            "sales": [
+              { "month": "Janeiro", "value": 48 },
+              { "month": "Fevereiro", "value": 505 },
+              { "month": "Março", "value": 315 },
+              { "month": "Abril", "value": 85 },
+              { "month": "Maio", "value": 165 },
+              { "month": "Junho", "value": 275 }
+            ]
+          },
+          {
+            "brandName": "Vivara",
+            "sales": [
+              { "month": "Janeiro", "value": 81 },
+              { "month": "Fevereiro", "value": 565 },
+              { "month": "Março", "value": 375 },
+              { "month": "Abril", "value": 115 },
+              { "month": "Maio", "value": 215 },
+              { "month": "Junho", "value": 325 }
+            ]
+          },
+          {
+            "brandName": "Swatch",
+            "sales": [
+              { "month": "Janeiro", "value": 27 },
+              { "month": "Fevereiro", "value": 495 },
+              { "month": "Março", "value": 305 },
+              { "month": "Abril", "value": 95 },
+              { "month": "Maio", "value": 155 },
+              { "month": "Junho", "value": 265 }
+            ]
+          },
+          {
+            "brandName": "Michael Kors",
+            "sales": [
+              { "month": "Janeiro", "value": 94 },
+              { "month": "Fevereiro", "value": 585 },
+              { "month": "Março", "value": 395 },
+              { "month": "Abril", "value": 125 },
+              { "month": "Maio", "value": 235 },
+              { "month": "Junho", "value": 345 }
+            ]
+          }
+        ]
+      },
+      {
+        "productName": "Roupas de Inverno",
+        "brands": [
+          {
+            "brandName": "Columbia",
+            "sales": [
+              { "month": "Janeiro", "value": 77 },
+              { "month": "Fevereiro", "value": 545 },
+              { "month": "Março", "value": 355 },
+              { "month": "Abril", "value": 105 },
+              { "month": "Maio", "value": 205 },
+              { "month": "Junho", "value": 315 }
+            ]
+          },
+          {
+            "brandName": "The North Face",
+            "sales": [
+              { "month": "Janeiro", "value": 63 },
+              { "month": "Fevereiro", "value": 515 },
+              { "month": "Março", "value": 325 },
+              { "month": "Abril", "value": 95 },
+              { "month": "Maio", "value": 175 },
+              { "month": "Junho", "value": 285 }
+            ]
+          },
+          {
+            "brandName": "Decathlon",
+            "sales": [
+              { "month": "Janeiro", "value": 49 },
+              { "month": "Fevereiro", "value": 500 },
+              { "month": "Março", "value": 300 },
+              { "month": "Abril", "value": 80 },
+              { "month": "Maio", "value": 150 },
+              { "month": "Junho", "value": 250 }
+            ]
+          },
+          {
+            "brandName": "Quechua",
+            "sales": [
+              { "month": "Janeiro", "value": 89 },
+              { "month": "Fevereiro", "value": 575 },
+              { "month": "Março", "value": 385 },
+              { "month": "Abril", "value": 125 },
+              { "month": "Maio", "value": 225 },
+              { "month": "Junho", "value": 335 }
+            ]
+          },
+          {
+            "brandName": "Hering",
+            "sales": [
+              { "month": "Janeiro", "value": 31 },
+              { "month": "Fevereiro", "value": 505 },
+              { "month": "Março", "value": 315 },
+              { "month": "Abril", "value": 85 },
+              { "month": "Maio", "value": 165 },
+              { "month": "Junho", "value": 275 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryName": "Beleza e Cuidados Pessoais",
+    "products": [
+      {
+        "productName": "Skincare",
+        "brands": [
+          {
+            "brandName": "Vult",
+            "sales": [
+              { "month": "Janeiro", "value": 55 },
+              { "month": "Fevereiro", "value": 515 },
+              { "month": "Março", "value": 325 },
+              { "month": "Abril", "value": 95 },
+              { "month": "Maio", "value": 175 },
+              { "month": "Junho", "value": 285 }
+            ]
+          },
+          {
+            "brandName": "Nivea",
+            "sales": [
+              { "month": "Janeiro", "value": 78 },
+              { "month": "Fevereiro", "value": 545 },
+              { "month": "Março", "value": 355 },
+              { "month": "Abril", "value": 105 },
+              { "month": "Maio", "value": 205 },
+              { "month": "Junho", "value": 315 }
+            ]
+          },
+          {
+            "brandName": "Neutrogena",
+            "sales": [
+              { "month": "Janeiro", "value": 32 },
+              { "month": "Fevereiro", "value": 505 },
+              { "month": "Março", "value": 305 },
+              { "month": "Abril", "value": 85 },
+              { "month": "Maio", "value": 155 },
+              { "month": "Junho", "value": 265 }
+            ]
+          },
+          {
+            "brandName": "La Roche-Posay",
+            "sales": [
+              { "month": "Janeiro", "value": 91 },
+              { "month": "Fevereiro", "value": 575 },
+              { "month": "Março", "value": 385 },
+              { "month": "Abril", "value": 125 },
+              { "month": "Maio", "value": 225 },
+              { "month": "Junho", "value": 335 }
+            ]
+          },
+          {
+            "brandName": "CeraVe",
+            "sales": [
+              { "month": "Janeiro", "value": 47 },
+              { "month": "Fevereiro", "value": 510 },
+              { "month": "Março", "value": 310 },
+              { "month": "Abril", "value": 90 },
+              { "month": "Maio", "value": 160 },
+              { "month": "Junho", "value": 270 }
+            ]
+          }
+        ]
+      },
+      {
+        "productName": "Maquiagem",
+        "brands": [
+          {
+            "brandName": "MAC",
+            "sales": [
+              { "month": "Janeiro", "value": 81 },
+              { "month": "Fevereiro", "value": 545 },
+              { "month": "Março", "value": 355 },
+              { "month": "Abril", "value": 105 },
+              { "month": "Maio", "value": 205 },
+              { "month": "Junho", "value": 315 }
+            ]
+          },
+          {
+            "brandName": "Maybelline",
+            "sales": [
+              { "month": "Janeiro", "value": 49 },
+              { "month": "Fevereiro", "value": 515 },
+              { "month": "Março", "value": 325 },
+              { "month": "Abril", "value": 95 },
+              { "month": "Maio", "value": 175 },
+              { "month": "Junho", "value": 285 }
+            ]
+          },
+          {
+            "brandName": "Natura",
+            "sales": [
+              { "month": "Janeiro", "value": 72 },
+              { "month": "Fevereiro", "value": 535 },
+              { "month": "Março", "value": 345 },
+              { "month": "Abril", "value": 100 },
+              { "month": "Maio", "value": 190 },
+              { "month": "Junho", "value": 300 }
+            ]
+          },
+          {
+            "brandName": "O Boticário",
+            "sales": [
+              { "month": "Janeiro", "value": 28 },
+              { "month": "Fevereiro", "value": 505 },
+              { "month": "Março", "value": 305 },
+              { "month": "Abril", "value": 85 },
+              { "month": "Maio", "value": 155 },
+              { "month": "Junho", "value": 265 }
+            ]
+          },
+          {
+            "brandName": "Quem Disse Berenice?",
+            "sales": [
+              { "month": "Janeiro", "value": 93 },
+              { "month": "Fevereiro", "value": 585 },
+              { "month": "Março", "value": 395 },
+              { "month": "Abril", "value": 130 },
+              { "month": "Maio", "value": 240 },
+              { "month": "Junho", "value": 350 }
+            ]
+          }
+        ]
+      },
+      {
+        "productName": "Cabelos",
+        "brands": [
+          {
+            "brandName": "Elseve",
+            "sales": [
+              { "month": "Janeiro", "value": 60 },
+              { "month": "Fevereiro", "value": 520 },
+              { "month": "Março", "value": 330 },
+              { "month": "Abril", "value": 90 },
+              { "month": "Maio", "value": 170 },
+              { "month": "Junho", "value": 280 }
+            ]
+          },
+          {
+            "brandName": "Seda",
+            "sales": [
+              { "month": "Janeiro", "value": 30 },
+              { "month": "Fevereiro", "value": 490 },
+              { "month": "Março", "value": 300 },
+              { "month": "Abril", "value": 80 },
+              { "month": "Maio", "value": 150 },
+              { "month": "Junho", "value": 250 }
+            ]
+          },
+          {
+            "brandName": "Dove",
+            "sales": [
+              { "month": "Janeiro", "value": 90 },
+              { "month": "Fevereiro", "value": 580 },
+              { "month": "Março", "value": 380 },
+              { "month": "Abril", "value": 120 },
+              { "month": "Maio", "value": 220 },
+              { "month": "Junho", "value": 330 }
+            ]
+          },
+          {
+            "brandName": "Pantene",
+            "sales": [
+              { "month": "Janeiro", "value": 15 },
+              { "month": "Fevereiro", "value": 470 },
+              { "month": "Março", "value": 280 },
+              { "month": "Abril", "value": 60 },
+              { "month": "Maio", "value": 130 },
+              { "month": "Junho", "value": 230 }
+            ]
+          },
+          {
+            "brandName": "TRESemmé",
+            "sales": [
+              { "month": "Janeiro", "value": 75 },
+              { "month": "Fevereiro", "value": 540 },
+              { "month": "Março", "value": 350 },
+              { "month": "Abril", "value": 105 },
+              { "month": "Maio", "value": 210 },
+              { "month": "Junho", "value": 320 }
+            ]
+          }
+        ]
+      },
+      {
+        "productName": "Perfumaria",
+        "brands": [
+          {
+            "brandName": "Natura",
+            "sales": [
+              { "month": "Janeiro", "value": 85 },
+              { "month": "Fevereiro", "value": 570 },
+              { "month": "Março", "value": 380 },
+              { "month": "Abril", "value": 115 },
+              { "month": "Maio", "value": 220 },
+              { "month": "Junho", "value": 330 }
+            ]
+          },
+          {
+            "brandName": "O Boticário",
+            "sales": [
+              { "month": "Janeiro", "value": 65 },
+              { "month": "Fevereiro", "value": 520 },
+              { "month": "Março", "value": 330 },
+              { "month": "Abril", "value": 95 },
+              { "month": "Maio", "value": 175 },
+              { "month": "Junho", "value": 285 }
+            ]
+          },
+          {
+            "brandName": "Avon",
+            "sales": [
+              { "month": "Janeiro", "value": 40 },
+              { "month": "Fevereiro", "value": 500 },
+              { "month": "Março", "value": 300 },
+              { "month": "Abril", "value": 80 },
+              { "month": "Maio", "value": 150 },
+              { "month": "Junho", "value": 250 }
+            ]
+          },
+          {
+            "brandName": "Eudora",
+            "sales": [
+              { "month": "Janeiro", "value": 95 },
+              { "month": "Fevereiro", "value": 590 },
+              { "month": "Março", "value": 390 },
+              { "month": "Abril", "value": 130 },
+              { "month": "Maio", "value": 240 },
+              { "month": "Junho", "value": 350 }
+            ]
+          },
+          {
+            "brandName": "Boticário",
+            "sales": [
+              { "month": "Janeiro", "value": 20 },
+              { "month": "Fevereiro", "value": 480 },
+              { "month": "Março", "value": 290 },
+              { "month": "Abril", "value": 70 },
+              { "month": "Maio", "value": 140 },
+              { "month": "Junho", "value": 240 }
+            ]
+          }
+        ]
+      },
+      {
+        "productName": "Higiene Bucal",
+        "brands": [
+          {
+            "brandName": "Colgate",
+            "sales": [
+              { "month": "Janeiro", "value": 70 },
+              { "month": "Fevereiro", "value": 530 },
+              { "month": "Março", "value": 340 },
+              { "month": "Abril", "value": 100 },
+              { "month": "Maio", "value": 190 },
+              { "month": "Junho", "value": 300 }
+            ]
+          },
+          {
+            "brandName": "Oral-B",
+            "sales": [
+              { "month": "Janeiro", "value": 50 },
+              { "month": "Fevereiro", "value": 510 },
+              { "month": "Março", "value": 310 },
+              { "month": "Abril", "value": 85 },
+              { "month": "Maio", "value": 160 },
+              { "month": "Junho", "value": 270 }
+            ]
+          },
+          {
+            "brandName": "Sensodyne",
+            "sales": [
+              { "month": "Janeiro", "value": 80 },
+              { "month": "Fevereiro", "value": 550 },
+              { "month": "Março", "value": 360 },
+              { "month": "Abril", "value": 105 },
+              { "month": "Maio", "value": 205 },
+              { "month": "Junho", "value": 315 }
+            ]
+          },
+          {
+            "brandName": "Close Up",
+            "sales": [
+              { "month": "Janeiro", "value": 25 },
+              { "month": "Fevereiro", "value": 495 },
+              { "month": "Março", "value": 295 },
+              { "month": "Abril", "value": 75 },
+              { "month": "Maio", "value": 145 },
+              { "month": "Junho", "value": 245 }
+            ]
+          },
+          {
+            "brandName": "Curaprox",
+            "sales": [
+              { "month": "Janeiro", "value": 95 },
+              { "month": "Fevereiro", "value": 585 },
+              { "month": "Março", "value": 395 },
+              { "month": "Abril", "value": 130 },
+              { "month": "Maio", "value": 240 },
+              { "month": "Junho", "value": 350 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryName": "Casa e Decoração",
+    "products": [
+      {
+        "productName": "Móveis",
+        "brands": [
+          {
+            "brandName": "Tok&Stok",
+            "sales": [
+              { "month": "Janeiro", "value": 68 },
+              { "month": "Fevereiro", "value": 535 },
+              { "month": "Março", "value": 345 },
+              { "month": "Abril", "value": 105 },
+              { "month": "Maio", "value": 205 },
+              { "month": "Junho", "value": 315 }
+            ]
+          },
+          {
+            "brandName": "Etna",
+            "sales": [
+              { "month": "Janeiro", "value": 42 },
+              { "month": "Fevereiro", "value": 505 },
+              { "month": "Março", "value": 305 },
+              { "month": "Abril", "value": 85 },
+              { "month": "Maio", "value": 155 },
+              { "month": "Junho", "value": 265 }
+            ]
+          },
+          {
+            "brandName": "Mobly",
+            "sales": [
+              { "month": "Janeiro", "value": 98 },
+              { "month": "Fevereiro", "value": 595 },
+              { "month": "Março", "value": 395 },
+              { "month": "Abril", "value": 135 },
+              { "month": "Maio", "value": 245 },
+              { "month": "Junho", "value": 355 }
+            ]
+          },
+          {
+            "brandName": "Magazine Luiza",
+            "sales": [
+              { "month": "Janeiro", "value": 18 },
+              { "month": "Fevereiro", "value": 475 },
+              { "month": "Março", "value": 285 },
+              { "month": "Abril", "value": 65 },
+              { "month": "Maio", "value": 135 },
+              { "month": "Junho", "value": 235 }
+            ]
+          },
+          {
+            "brandName": "MadeiraMadeira",
+            "sales": [
+              { "month": "Janeiro", "value": 82 },
+              { "month": "Fevereiro", "value": 555 },
+              { "month": "Março", "value": 365 },
+              { "month": "Abril", "value": 110 },
+              { "month": "Maio", "value": 210 },
+              { "month": "Junho", "value": 320 }
+            ]
+          }
+        ]
+      },
+      {
+        "productName": "Utensílios de Cozinha",
+        "brands": [
+          {
+            "brandName": "Tramontina",
+            "sales": [
+              { "month": "Janeiro", "value": 75 },
+              { "month": "Fevereiro", "value": 545 },
+              { "month": "Março", "value": 355 },
+              { "month": "Abril", "value": 105 },
+              { "month": "Maio", "value": 205 },
+              { "month": "Junho", "value": 315 }
+            ]
+          },
+          {
+            "brandName": "Brinox",
+            "sales": [
+              { "month": "Janeiro", "value": 55 },
+              { "month": "Fevereiro", "value": 515 },
+              { "month": "Março", "value": 325 },
+              { "month": "Abril", "value": 95 },
+              { "month": "Maio", "value": 175 },
+              { "month": "Junho", "value": 285 }
+            ]
+          },
+          {
+            "brandName": "Oxford Porcelanas",
+            "sales": [
+              { "month": "Janeiro", "value": 85 },
+              { "month": "Fevereiro", "value": 575 },
+              { "month": "Março", "value": 385 },
+              { "month": "Abril", "value": 125 },
+              { "month": "Maio", "value": 225 },
+              { "month": "Junho", "value": 335 }
+            ]
+          },
+          {
+            "brandName": "Mondial",
+            "sales": [
+              { "month": "Janeiro", "value": 35 },
+              { "month": "Fevereiro", "value": 505 },
+              { "month": "Março", "value": 305 },
+              { "month": "Abril", "value": 85 },
+              { "month": "Maio", "value": 155 },
+              { "month": "Junho", "value": 265 }
+            ]
+          },
+          {
+            "brandName": "Philco",
+            "sales": [
+              { "month": "Janeiro", "value": 95 },
+              { "month": "Fevereiro", "value": 585 },
+              { "month": "Março", "value": 395 },
+              { "month": "Abril", "value": 130 },
+              { "month": "Maio", "value": 240 },
+              { "month": "Junho", "value": 350 }
+            ]
+          }
+        ]
+      },
+      {
+        "productName": "Eletrodomésticos",
+        "brands": [
+          {
+            "brandName": "Brastemp",
+            "sales": [
+              { "month": "Janeiro", "value": 90 },
+              { "month": "Fevereiro", "value": 580 },
+              { "month": "Março", "value": 380 },
+              { "month": "Abril", "value": 120 },
+              { "month": "Maio", "value": 220 },
+              { "month": "Junho", "value": 330 }
+            ]
+          },
+          {
+            "brandName": "Consul",
+            "sales": [
+              { "month": "Janeiro", "value": 70 },
+              { "month": "Fevereiro", "value": 530 },
+              { "month": "Março", "value": 340 },
+              { "month": "Abril", "value": 100 },
+              { "month": "Maio", "value": 190 },
+              { "month": "Junho", "value": 300 }
+            ]
+          },
+          {
+            "brandName": "Electrolux",
+            "sales": [
+              { "month": "Janeiro", "value": 50 },
+              { "month": "Fevereiro", "value": 510 },
+              { "month": "Março", "value": 310 },
+              { "month": "Abril", "value": 85 },
+              { "month": "Maio", "value": 160 },
+              { "month": "Junho", "value": 270 }
+            ]
+          },
+          {
+            "brandName": "Panasonic",
+            "sales": [
+              { "month": "Janeiro", "value": 80 },
+              { "month": "Fevereiro", "value": 550 },
+              { "month": "Março", "value": 360 },
+              { "month": "Abril", "value": 105 },
+              { "month": "Maio", "value": 205 },
+              { "month": "Junho", "value": 315 }
+            ]
+          },
+          {
+            "brandName": "Samsung",
+            "sales": [
+              { "month": "Janeiro", "value": 30 },
+              { "month": "Fevereiro", "value": 490 },
+              { "month": "Março", "value": 300 },
+              { "month": "Abril", "value": 80 },
+              { "month": "Maio", "value": 150 },
+              { "month": "Junho", "value": 250 }
+            ]
+          }
+        ]
+      },
+      {
+        "productName": "Iluminação",
+        "brands": [
+          {
+            "brandName": "Stella",
+            "sales": [
+              { "month": "Janeiro", "value": 62 },
+              { "month": "Fevereiro", "value": 535 },
+              { "month": "Março", "value": 345 },
+              { "month": "Abril", "value": 105 },
+              { "month": "Maio", "value": 205 },
+              { "month": "Junho", "value": 315 }
+            ]
+          },
+          {
+            "brandName": "Avant",
+            "sales": [
+              { "month": "Janeiro", "value": 48 },
+              { "month": "Fevereiro", "value": 505 },
+              { "month": "Março", "value": 315 },
+              { "month": "Abril", "value": 85 },
+              { "month": "Maio", "value": 165 },
+              { "month": "Junho", "value": 275 }
+            ]
+          },
+          {
+            "brandName": "Taschibra",
+            "sales": [
+              { "month": "Janeiro", "value": 81 },
+              { "month": "Fevereiro", "value": 565 },
+              { "month": "Março", "value": 375 },
+              { "month": "Abril", "value": 115 },
+              { "month": "Maio", "value": 215 },
+              { "month": "Junho", "value": 325 }
+            ]
+          },
+          {
+            "brandName": "Osram",
+            "sales": [
+              { "month": "Janeiro", "value": 27 },
+              { "month": "Fevereiro", "value": 495 },
+              { "month": "Março", "value": 305 },
+              { "month": "Abril", "value": 95 },
+              { "month": "Maio", "value": 155 },
+              { "month": "Junho", "value": 265 }
+            ]
+          },
+          {
+            "brandName": "Philips",
+            "sales": [
+              { "month": "Janeiro", "value": 94 },
+              { "month": "Fevereiro", "value": 585 },
+              { "month": "Março", "value": 395 },
+              { "month": "Abril", "value": 125 },
+              { "month": "Maio", "value": 235 },
+              { "month": "Junho", "value": 345 }
+            ]
+          }
+        ]
+      },
+      {
+        "productName": "Cama, Mesa e Banho",
+        "brands": [
+          {
+            "brandName": "Artex",
+            "sales": [
+              { "month": "Janeiro", "value": 77 },
+              { "month": "Fevereiro", "value": 545 },
+              { "month": "Março", "value": 355 },
+              { "month": "Abril", "value": 105 },
+              { "month": "Maio", "value": 205 },
+              { "month": "Junho", "value": 315 }
+            ]
+          },
+          {
+            "brandName": "Karsten",
+            "sales": [
+              { "month": "Janeiro", "value": 63 },
+              { "month": "Fevereiro", "value": 515 },
+              { "month": "Março", "value": 325 },
+              { "month": "Abril", "value": 95 },
+              { "month": "Maio", "value": 175 },
+              { "month": "Junho", "value": 285 }
+            ]
+          },
+          {
+            "brandName": "Buddemeyer",
+            "sales": [
+              { "month": "Janeiro", "value": 49 },
+              { "month": "Fevereiro", "value": 500 },
+              { "month": "Março", "value": 300 },
+              { "month": "Abril", "value": 80 },
+              { "month": "Maio", "value": 150 },
+              { "month": "Junho", "value": 250 }
+            ]
+          },
+          {
+            "brandName": "Santista",
+            "sales": [
+              { "month": "Janeiro", "value": 89 },
+              { "month": "Fevereiro", "value": 575 },
+              { "month": "Março", "value": 385 },
+              { "month": "Abril", "value": 125 },
+              { "month": "Maio", "value": 225 },
+              { "month": "Junho", "value": 335 }
+            ]
+          },
+          {
+            "brandName": "Dohler",
+            "sales": [
+              { "month": "Janeiro", "value": 31 },
+              { "month": "Fevereiro", "value": 505 },
+              { "month": "Março", "value": 315 },
+              { "month": "Abril", "value": 85 },
+              { "month": "Maio", "value": 165 },
+              { "month": "Junho", "value": 275 }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

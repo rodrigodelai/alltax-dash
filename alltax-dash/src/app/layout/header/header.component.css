@@ -25,3 +25,8 @@
     width: 2rem;
     border-radius: 50%;
 }
+
+.mat-primary {
+    background-color: var(--mdc-theme-primary) !important;
+    color: var(--mdc-theme-on-primary) !important;
+}

@@ -12,3 +12,8 @@
 img {
     height: 2rem;
 }
+
+.mat-primary {
+    background-color: var(--mdc-theme-primary) !important;
+    color: var(--mdc-theme-on-primary) !important;
+}

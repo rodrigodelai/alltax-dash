@@ -1,4 +1,5 @@
-import { Component } from '@angular/core';
+import { Component, Input } from '@angular/core';
+import { Brand } from '../../models/sales-data.interface';
 
 @Component({
     selector: 'app-sales-chart',
@@ -7,4 +8,6 @@ import { Component } from '@angular/core';
     templateUrl: './sales-chart.component.html',
     styleUrl: './sales-chart.component.css',
 })
-export class SalesChartComponent {}
+export class SalesChartComponent {
+    @Input() currentBrand?: Brand;
+}

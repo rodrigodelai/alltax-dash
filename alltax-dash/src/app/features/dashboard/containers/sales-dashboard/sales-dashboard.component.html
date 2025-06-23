@@ -1,3 +1,2 @@
-<p>sales-dashboard works!</p>
-<app-filter-dropdowns></app-filter-dropdowns>
-<app-sales-chart></app-sales-chart>
+<app-filter-dropdowns (filtersChanged)="onFiltersChanged($event)"></app-filter-dropdowns>
+<app-sales-chart [currentBrand]="currentBrand"></app-sales-chart>
