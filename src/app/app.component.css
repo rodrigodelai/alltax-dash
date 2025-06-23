@@ -2,6 +2,7 @@ app-header {
     position: fixed;
     height: 4rem;
     width: 100%;
+    z-index: 10;
 }
 
 app-header, app-footer {
@@ -10,5 +11,6 @@ app-header, app-footer {
 
 main {
     padding-top: 4rem;
+    padding-bottom: 1rem;
     min-height: calc(100% - 8rem);
 }
